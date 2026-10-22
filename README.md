@@ -1,5 +1,5 @@
 # OmniClient 2026
-===============
+--------
 
 free hacked client for minecraft java. i got tired of paid clients so i
 made my own and figured other people might want it too.
