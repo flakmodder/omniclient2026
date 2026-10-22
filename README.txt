@@ -11,6 +11,9 @@ features
 - fly + jesus (walk on water)
 - esp + tracers
 - antiknockback
+- 200 cheats
+- thousands of custom skins
+- skin customizer
 
 install
 -------
@@ -33,4 +36,4 @@ notes
 
 credits
 -------
-made by omnimodder. thanks to the hacked client community for the inspo.
+made by flakmodder. thanks to the hacked client community for the inspo.
